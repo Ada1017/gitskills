@@ -1,3 +1,3 @@
 # gitskills
-aaaaaaaaaaa
+修改一个bug
 
