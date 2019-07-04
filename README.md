@@ -1,4 +1,3 @@
 # gitskills
-cccccccccccccc
-aaaaaaaaaa
+aaaaaaaaaaa
 
